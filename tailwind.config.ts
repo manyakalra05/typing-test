@@ -91,3 +91,5 @@ export default {
   },
   plugins: [require("tailwindcss-animate")],
 } satisfies Config;
+
+<!-- 2024-12-12T05:48:32+05:30 -->
